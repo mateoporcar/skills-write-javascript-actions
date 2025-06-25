@@ -6,6 +6,6 @@ outputs:
   joke-output:
     description: "The joke retrieved from the API"
 
-run:
+runs:
   using: "node16"
   main: "main.js"
